@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"6cc840168e384f74b172b627ecf3e55a"
+    },
+  
+    "PAGE_TITLE" : "ThorNet", 
+    "PAGE_DESCRIPTION" : "I design interfaces, test, and build great digital products. ",
+    
+    "GOOGLE_FONT" : "Karla",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}
